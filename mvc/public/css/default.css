@@ -1,0 +1,62 @@
+body{
+    background: silver;
+}
+
+#header{
+    height: 6%;
+    padding: 20px;
+    background: aqua;
+    padding-top: 0;
+}
+#content{
+    height: 70%;
+    background: #fff;
+    padding: 20px;
+}
+#footer{
+    height: 6%;    
+    background: mediumaquamarine;
+    padding: 20px;
+}
+.content{
+    width: 25%;
+    height: 100px;
+}
+.index_main{
+    display: inline-block;
+    width: 33%;
+    height: auto;
+}
+.index_img{
+    width: 100%;
+    height: 76%;
+}
+.help_main{
+    display: inline-block;
+    width: 33%;
+    height: auto;
+}
+.help_img{
+    width: 100%;
+    height: 76%;
+}
+
+.about_main{
+    display: inline-block;
+    width: 33%;
+    height: auto;
+}
+.about_img{
+    width: 100%;
+    height: 76%;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+a{
+    text-decoration: none;
+    margin: 20px;
+    color: black;
+    font-size: 19px;
+}
